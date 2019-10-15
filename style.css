@@ -1,0 +1,29 @@
+th {
+	padding: 10px;
+	background-color: #f4f4f4 ;
+}
+
+td {
+	padding: 3%;
+}
+#orange {
+	background-color: rgb(241,196,15);
+
+}
+#purple{
+	background-color: rgb(169,46,249);
+}
+#blue{
+	background-color: rgb(20, 83, 255);
+}
+
+#yellow {
+	background-color: rgb(252, 255, 20 );
+}
+table {
+	border-collapse: collapse;
+	border:0px solid rgb(200,200,200);
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	font-size: 1rem;
+}
